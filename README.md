@@ -28,14 +28,6 @@ The primary aim of this project is to comprehensively analyze the behavioral pat
 
 Through meticulous analysis and modeling, this project sheds light on the complex interplay between conventional energy reliance and the imperative shift towards sustainable alternatives. By understanding these dynamics, policymakers and stakeholders can make informed decisions to navigate the energy landscape towards a more sustainable future.
 
-## Repository Contents
-
-- Data files
-- Jupyter notebooks
-- Statistical models
-- Survey results
-- Visualizations
-
 ## Contributors
 
 This project has benefited from the contributions of multiple individuals. We thank all the contributors for their valuable input and collaboration.
